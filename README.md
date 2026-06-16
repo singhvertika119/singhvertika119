@@ -12,7 +12,7 @@
 # Vertika Singh
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%8C%B8;Full-Stack+Developer+%F0%9F%8C%B7;Builder+of+Intelligent+Things+%F0%9F%AA%B7;Open+to+Internships+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%F0%9F%8C%B8;Backend+Developer+%F0%9F%8C%B7;Building+Intelligent+Systems+%F0%9F%AA%B7;Open+to+Work+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/🌸_AI%2FML-Specialization-880e4f?style=for-the-badge&labelColor=1a0010" />
   &nbsp;
-  <img src="https://img.shields.io/badge/💜_Full--Stack-Developer-6a1b9a?style=for-the-badge&labelColor=1a0010" />
+  <img src="https://img.shields.io/badge/💜_Backend-Developer-6a1b9a?style=for-the-badge&labelColor=1a0010" />
   &nbsp;
   <img src="https://img.shields.io/badge/🌷_Open_To-Work-ad1457?style=for-the-badge&labelColor=1a0010" />
   &nbsp;
@@ -196,7 +196,7 @@ A secure full-stack blogging platform with end-to-end user flows for registratio
 
 <br/>
 
-*"She builds with code what others only dream in theory."*
+*"She crafts solutions with code, giving shape to ideas and possibilities."*
 
 <br/>
 
