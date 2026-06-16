@@ -28,7 +28,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/💜_Full--Stack-Developer-6a1b9a?style=for-the-badge&labelColor=1a0010" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🌷_Open_To-Internships-ad1457?style=for-the-badge&labelColor=1a0010" />
+  <img src="https://img.shields.io/badge/🌷_Open_To-Work-ad1457?style=for-the-badge&labelColor=1a0010" />
   &nbsp;
   <img src="https://img.shields.io/badge/📍_Noida-India-c2185b?style=for-the-badge&labelColor=1a0010" />
 </p>
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Gmail-singhvertika119-f48fb1?style=flat-square&logo=gmail&logoColor=f48fb1&labelColor=1a0010" />
   </a>
   &nbsp;
-  <a href="https://github.com/vertika-singh09">
+  <a href="https://github.com/singhvertika119">
     <img src="https://img.shields.io/badge/GitHub-vertika--singh09-ce93d8?style=flat-square&logo=github&logoColor=ce93d8&labelColor=1a0010" />
   </a>
   &nbsp;
@@ -188,21 +188,7 @@ A secure full-stack blogging platform with end-to-end user flows for registratio
 
 ---
 
-## 🌷 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vertika-singh09&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=f48fb1&icon_color=ce93d8&text_color=d4b8d4&border_color=5c1a3a&hide_border=false" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vertika-singh09&theme=radical&background=0d0d0d&ring=f48fb1&fire=e879a0&currStreakLabel=ce93d8&sideLabels=d4b8d4&border=5c1a3a&dates=9e5070" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertika-singh09&layout=compact&theme=radical&bg_color=0d0d0d&title_color=f48fb1&text_color=d4b8d4&border_color=5c1a3a" width="48%" />
-
-</div>
-
----
 
 <div align="center">
 
