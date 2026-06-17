@@ -66,7 +66,7 @@
 
 ---
 
-## 🌸 Garden of Projects
+## 🌸 Projects
 
 <br/>
 
