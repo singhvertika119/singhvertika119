@@ -38,15 +38,15 @@
 <!-- Social links -->
 <p>
   <a href="mailto:singhvertika119@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-singhvertika119-f48fb1?style=flat-square&logo=gmail&logoColor=f48fb1&labelColor=1a0010" />
+    <img src="https://img.shields.io/badge/Gmail-singhvertika119-f48fb1?" />
   </a>
   &nbsp;
   <a href="https://github.com/singhvertika119">
-    <img src="https://img.shields.io/badge/GitHub-vertika--singh09-ce93d8?style=flat-square&logo=github&logoColor=ce93d8&labelColor=1a0010" />
+    <img src="https://img.shields.io/badge/GitHub-vertika--singh09-ce93d8?"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/vertika-singh09">
-    <img src="https://img.shields.io/badge/LinkedIn-Vertika_Singh-e879a0?style=flat-square&logo=linkedin&logoColor=e879a0&labelColor=1a0010" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vertika_Singh-e879a0?" />
   </a>
 </p>
 
@@ -66,65 +66,6 @@
 
 ---
 
-## 🌸 Projects
-
-<br/>
-
-### 🔴 &nbsp; Entropy AI — DevOps Log Analyzer
-> `RAG` &nbsp; `LangChain` &nbsp; `Groq` &nbsp; `Docker` &nbsp; `FastAPI`
-
-A multi-service log monitoring stack that detects `ERROR`/`CRITICAL` events in real time and triggers automated incident analysis. Built a RAG-style RCA pipeline that matches errors to DevOps runbooks via keyword retrieval, then uses **Groq (Llama 3.1)** through LangChain to generate structured root-cause and remediation reports from rolling log context.
-
-```
-🌸 FastAPI  ·  LangChain  ·  Groq API  ·  Docker  ·  Streamlit  ·  Python
-```
-
-<br/>
-
-### 🟣 &nbsp; KOKO — Offline AI Agent
-> `Ollama` &nbsp; `Llama 3B` &nbsp; `Agentic Loop` &nbsp; `SQLite`
-
-A fully private, offline AI agent running Llama 3B locally via Ollama — **zero data leakage** for private system tasks. Built a custom agentic loop with deterministic routing and regex safety fallbacks. Engineered an XML-tagging pipeline to securely query local SQLite databases, bypassing JSON formatting limits of small models.
-
-```
-🌸 Python  ·  Ollama  ·  Pydantic  ·  SQLite  ·  FastAPI  ·  Streamlit  ·  Moondream
-```
-
-<br/>
-
-### 🌸 &nbsp; UI → Code Generator
-> `Gemini Vision` &nbsp; `FastAPI` &nbsp; `Sandpack` &nbsp; `React`
-
-A full-stack developer tool that accepts UI screenshots via drag-and-drop, calls a **Gemini Vision LLM** from a FastAPI backend, and returns clean React + Tailwind component code. Features a live in-browser Sandpack preview with resizable panels so generated components can be inspected immediately.
-
-```
-🌸 Python  ·  FastAPI  ·  Gemini Vision API  ·  React  ·  Vite  ·  Tailwind
-```
-
-<br/>
-
-### 🌺 &nbsp; FemmeCare — Women's Health Platform
-> `MERN` &nbsp; `JWT RBAC` &nbsp; `Gemini API` &nbsp; `Jitsi Meet`
-
-A MERN-stack telehealth platform connecting patients with gynecologists. Implemented **JWT-based role-based access control** for separate patient and doctor dashboards. Integrated Gemini API for an empathetic AI health assistant and embedded zero-config video consultations via the Jitsi Meet React SDK.
-
-```
-🌸 Node.js  ·  Express.js  ·  React  ·  MongoDB  ·  Gemini API  ·  Jitsi Meet  ·  Vite
-```
-
-<br/>
-
-### 🌷 &nbsp; DevBlog — Full-Stack Blogging Platform
-> `MERN` &nbsp; `JWT Rotation` &nbsp; `Vitest` &nbsp; `MongoMemoryServer`
-
-A secure full-stack blogging platform with end-to-end user flows for registration, login, blog CRUD, search, and threaded comments. Secured with **JWT access/refresh tokens** in HTTP-only cookies, refresh-token hashing and rotation on each use. Automated integration tests with **7 passing tests**, zero external dependencies.
-
-```
-🌸 Node.js  ·  Express  ·  MongoDB  ·  React  ·  JWT  ·  Vitest  ·  Supertest
-```
-
----
-
 ## 🌺 My Toolkit
 
 <br/>
@@ -133,8 +74,8 @@ A secure full-stack blogging platform with end-to-end user flows for registratio
   <tr>
     <td align="center" width="50%">
       <h4>🌸 Languages</h4>
-      <img src="https://img.shields.io/badge/Python-primary-880e4f?style=flat-square&logo=python&logoColor=f48fb1&labelColor=130a14" />
-      <img src="https://img.shields.io/badge/JavaScript-ES6+-6a1b9a?style=flat-square&logo=javascript&logoColor=ce93d8&labelColor=130a14" />
+      <img src="https://img.shields.io/badge/Python-880e4f?style=flat-square&logo=python&logoColor=f48fb1&labelColor=130a14" />
+      <img src="https://img.shields.io/badge/JavaScript-6a1b9a?style=flat-square&logo=javascript&logoColor=ce93d8&labelColor=130a14" />
       <img src="https://img.shields.io/badge/Java-ad1457?style=flat-square&logo=openjdk&logoColor=f9a8d4&labelColor=130a14" />
       <img src="https://img.shields.io/badge/C++-c2185b?style=flat-square&logo=cplusplus&logoColor=f48fb1&labelColor=130a14" />
     </td>
@@ -143,7 +84,7 @@ A secure full-stack blogging platform with end-to-end user flows for registratio
       <img src="https://img.shields.io/badge/TensorFlow-880e4f?style=flat-square&logo=tensorflow&logoColor=f48fb1&labelColor=130a14" />
       <img src="https://img.shields.io/badge/PyTorch-6a1b9a?style=flat-square&logo=pytorch&logoColor=ce93d8&labelColor=130a14" />
       <img src="https://img.shields.io/badge/LangChain-ad1457?style=flat-square&logoColor=f9a8d4&labelColor=130a14" />
-      <img src="https://img.shields.io/badge/RAG_Pipelines-c2185b?style=flat-square&labelColor=130a14&color=c2185b" />
+      <img src="https://img.shields.io/badge/RAG-c2185b?style=flat-square&labelColor=130a14&color=c2185b" />
       <img src="https://img.shields.io/badge/Ollama-880e4f?style=flat-square&labelColor=130a14" />
       <img src="https://img.shields.io/badge/OpenCV-6a1b9a?style=flat-square&logo=opencv&logoColor=ce93d8&labelColor=130a14" />
       <img src="https://img.shields.io/badge/NLP-ad1457?style=flat-square&labelColor=130a14" />
@@ -156,8 +97,7 @@ A secure full-stack blogging platform with end-to-end user flows for registratio
       <img src="https://img.shields.io/badge/FastAPI-880e4f?style=flat-square&logo=fastapi&logoColor=f48fb1&labelColor=130a14" />
       <img src="https://img.shields.io/badge/Node.js-6a1b9a?style=flat-square&logo=nodedotjs&logoColor=ce93d8&labelColor=130a14" />
       <img src="https://img.shields.io/badge/Express.js-ad1457?style=flat-square&logo=express&logoColor=f9a8d4&labelColor=130a14" />
-      <img src="https://img.shields.io/badge/REST_APIs-c2185b?style=flat-square&labelColor=130a14" />
-      <img src="https://img.shields.io/badge/JWT_Auth-880e4f?style=flat-square&labelColor=130a14" />
+      <img src="https://img.shields.io/badge/Next.js-c2185b?style=flat-square&labelColor=130a14" />
     </td>
     <td align="center">
       <h4>🌼 Frontend</h4>
@@ -173,14 +113,13 @@ A secure full-stack blogging platform with end-to-end user flows for registratio
       <h4>🪷 Databases</h4>
       <img src="https://img.shields.io/badge/MongoDB-880e4f?style=flat-square&logo=mongodb&logoColor=f48fb1&labelColor=130a14" />
       <img src="https://img.shields.io/badge/SQL-6a1b9a?style=flat-square&logo=mysql&logoColor=ce93d8&labelColor=130a14" />
-      <img src="https://img.shields.io/badge/SQLite-ad1457?style=flat-square&logo=sqlite&logoColor=f9a8d4&labelColor=130a14" />
+      <img src="https://img.shields.io/badge/PostgreSQL-ad1457?style=flat-square&logo=PostgreSQL&logoColor=f9a8d4&labelColor=130a14" />
     </td>
     <td align="center">
       <h4>🌿 DevOps & Cloud</h4>
       <img src="https://img.shields.io/badge/Docker-880e4f?style=flat-square&logo=docker&logoColor=f48fb1&labelColor=130a14" />
       <img src="https://img.shields.io/badge/Git-6a1b9a?style=flat-square&logo=git&logoColor=ce93d8&labelColor=130a14" />
       <img src="https://img.shields.io/badge/GitHub-ad1457?style=flat-square&logo=github&logoColor=f9a8d4&labelColor=130a14" />
-      <img src="https://img.shields.io/badge/Render-c2185b?style=flat-square&logo=render&logoColor=f48fb1&labelColor=130a14" />
       <img src="https://img.shields.io/badge/Google_Colab-880e4f?style=flat-square&logo=googlecolab&logoColor=f48fb1&labelColor=130a14" />
     </td>
   </tr>
